@@ -1,0 +1,910 @@
+State,Year,cause,ucd_code,deaths,population,rate
+Alabama,2018,All other drug-induced causes,D9,71,659300,10.76899742150766
+Alabama,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,548,3424350,16.003037072729132
+Alabama,2019,All other drug-induced causes,D9,78,658573,11.843789526749502
+Alabama,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,10,658573,1.5184345547114746
+Alabama,2019,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,36633,27.29779160865886
+Alabama,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,573,3483223,16.45028182232375
+Alabama,2020,All other drug-induced causes,D9,97,655342,14.801431924094596
+Alabama,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,10,412716,2.4229736671221858
+Alabama,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,821,3408039,24.090099907894245
+Alabama,2021,All other drug-induced causes,D9,81,770982,10.506081854051066
+Alabama,2021,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,12,36699,32.69843864955448
+Alabama,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,1179,3886742,30.33388889717918
+Alabama,2022,All other drug-induced causes,D9,54,1172062,4.607264803397772
+Alabama,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,1278,4119693,31.02172904631486
+Alabama,2023,All other drug-induced causes,D9,36,662895,5.430724322856562
+Alabama,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,1399,4320134,32.383254778671215
+Alabama,2024,All other drug-induced causes,D9,19,664744,2.8582431733118314
+Alabama,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,1015,4044451,25.096113168387994
+Alaska,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,77,556652,13.832699783706875
+Alaska,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,81,493166,16.424489928340556
+Alaska,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,122,552373,22.086524866349368
+Alaska,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,204,586140,34.80397174736411
+Alaska,2022,All other drug-induced causes,D9,11,287145,3.830817182956346
+Alaska,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,194,588201,32.98192284610193
+Alaska,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,282,588932,47.88328703483594
+Alaska,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,286,518281,55.18242034726336
+Arizona,2018,All other drug-induced causes,D9,92,5449897,1.6881052981368272
+Arizona,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,119,5449897,2.183527505198722
+Arizona,2018,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,44,4620374,0.952303861116005
+Arizona,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,1418,7022736,20.19156066809289
+Arizona,2019,All other drug-induced causes,D9,82,5532693,1.4820992236511226
+Arizona,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,130,5979973,2.173922858849028
+Arizona,2019,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,36,4485414,0.8026014989920662
+Arizona,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,1663,7090889,23.452630551684
+Arizona,2020,All other drug-induced causes,D9,99,5640256,1.7552394784917564
+Arizona,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,93,5640256,1.6488613282801348
+Arizona,2020,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,94,5036513,1.866370641751545
+Arizona,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,2305,7390580,31.188350576003508
+Arizona,2021,All other drug-induced causes,D9,91,5548618,1.6400480263734143
+Arizona,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,88,5548618,1.5859805090204442
+Arizona,2021,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,85,5766310,1.474079610704246
+Arizona,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,2499,7250504,34.46656949641018
+Arizona,2022,All other drug-induced causes,D9,99,5609121,1.764982427727981
+Arizona,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,139,5609121,2.4781066409514074
+Arizona,2022,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,43,4551524,0.9447385095629508
+Arizona,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,2407,7301136,32.96747245908034
+Arizona,2023,All other drug-induced causes,D9,85,5649033,1.5046823058034888
+Arizona,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,114,5872715,1.941180527234848
+Arizona,2023,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,50,4585871,1.0903054185344507
+Arizona,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,2386,7316582,32.610855724708614
+Arizona,2024,All other drug-induced causes,D9,45,5753245,0.7821672812473656
+Arizona,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,97,5753245,1.6860050284665438
+Arizona,2024,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,48,4673096,1.0271563006623445
+Arizona,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,2254,7522466,29.963578432923455
+Arkansas,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,10,392680,2.546602831822349
+Arkansas,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,193,1328535,14.527280049076614
+Arkansas,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,180,1170944,15.372212505465676
+Arkansas,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,279,1441456,19.355429510161947
+Arkansas,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,407,1977128,20.585414803695055
+Arkansas,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,413,1919507,21.515941332852655
+Arkansas,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,305,1844035,16.53981621823881
+Arkansas,2024,All other drug-induced causes,D9,12,401209,2.9909598239321653
+Arkansas,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,208,1659575,12.533329316240604
+California,2018,All other drug-induced causes,D9,299,28808793,1.0378775674496326
+California,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,391,30364842,1.2876734217816777
+California,2018,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,12,3185968,0.37665161734204483
+California,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,4731,39046128,12.116438280384678
+California,2019,All other drug-induced causes,D9,369,28928342,1.2755656718936745
+California,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,389,31629719,1.2298560097862394
+California,2019,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,10039107,0.09961045339988907
+California,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,5529,38947743,14.19594455062518
+California,2020,All other drug-induced causes,D9,410,28859102,1.4206956266345363
+California,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,292,27187565,1.0740204207327873
+California,2020,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,16,1907105,0.8389679645326292
+California,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,8324,38925356,21.38451861557798
+California,2021,All other drug-induced causes,D9,397,32701415,1.2140147452335015
+California,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,326,29361797,1.1102862675605312
+California,2021,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,24,3474429,0.69076098547416
+California,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,10328,39028891,26.46244803625089
+California,2022,All other drug-induced causes,D9,342,29259214,1.1688625675317184
+California,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,395,29534459,1.337420807335594
+California,2022,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,21,1870945,1.1224274364024598
+California,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,10304,38822687,26.54118196404077
+California,2023,All other drug-induced causes,D9,355,29457772,1.2051149014256746
+California,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,362,30349582,1.1927676631592488
+California,2023,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,1877592,0.5325970711421864
+California,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,10765,38805191,27.741133911697535
+California,2024,All other drug-induced causes,D9,307,29477359,1.0414772910965329
+California,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,336,30400707,1.1052374538526357
+California,2024,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,1926325,0.5710355210050225
+California,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,8471,39182457,21.619369096736328
+Colorado,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,92,3524182,2.6105348702195292
+Colorado,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,742,4876098,15.217085464648168
+Colorado,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,110,3912559,2.8114592009986303
+Colorado,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,770,4945942,15.568318431554594
+Colorado,2020,All other drug-induced causes,D9,10,728310,1.373041699276407
+Colorado,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,107,3224466,3.318378919176075
+Colorado,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,1173,4980091,23.55378646695412
+Colorado,2021,All other drug-induced causes,D9,16,737867,2.16841246457695
+Colorado,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,128,3898027,3.2837125037871724
+Colorado,2021,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,12,711463,1.686665364186191
+Colorado,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,1557,5267376,29.559309986604337
+Colorado,2022,All other drug-induced causes,D9,19,740567,2.565601761893252
+Colorado,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,109,3540813,3.078389059235831
+Colorado,2022,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,713252,1.4020290163925233
+Colorado,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,1476,5250366,28.112325883566974
+Colorado,2023,All other drug-induced causes,D9,15,744215,2.0155465826407695
+Colorado,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,119,3937321,3.0223596196500107
+Colorado,2023,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,716577,1.5350757839004041
+Colorado,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,1518,5121498,29.639765552969074
+Colorado,2024,All other drug-induced causes,D9,12,752772,1.5941081761808356
+Colorado,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,114,3644789,3.127753074320626
+Colorado,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,1279,5183177,24.675985404318627
+Connecticut,2018,All other drug-induced causes,D9,15,892697,1.6803013788553116
+Connecticut,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,47,2694140,1.7445270104745854
+Connecticut,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,993,3572665,27.79437758647956
+Connecticut,2019,All other drug-induced causes,D9,30,1746477,1.7177437779026004
+Connecticut,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,54,2689809,2.0075774897028005
+Connecticut,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,1127,3565287,31.610358436782228
+Connecticut,2020,All other drug-induced causes,D9,41,1741174,2.354733070905033
+Connecticut,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,44,2683600,1.63958861231182
+Connecticut,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,1303,3557006,36.63193146145944
+Connecticut,2021,All other drug-induced causes,D9,24,863700,2.7787426189649187
+Connecticut,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,61,2989127,2.0407296177111243
+Connecticut,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,1468,3605597,40.71447807395003
+Connecticut,2022,All other drug-induced causes,D9,28,0,Inf
+Connecticut,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,55,0,Inf
+Connecticut,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,1411,0,Inf
+Connecticut,2023,All other drug-induced causes,D9,36,0,Inf
+Connecticut,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,30,0,Inf
+Connecticut,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,1246,0,Inf
+Connecticut,2024,All other drug-induced causes,D9,43,0,Inf
+Connecticut,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,42,0,Inf
+Connecticut,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,920,0,Inf
+Delaware,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,379,967171,39.18645203381822
+Delaware,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,408,973764,41.89926922745142
+Delaware,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,426,986809,43.16944819108865
+Delaware,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,492,1003384,49.03406871148036
+Delaware,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,11,575494,1.9114013352007146
+Delaware,2022,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,255956,4.297613652346497
+Delaware,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,514,1018396,50.47152581117758
+Delaware,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,11,578592,1.9011669708533818
+Delaware,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,501,1031890,48.551686710792815
+Delaware,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,316,1051917,30.040392920734238
+District of Columbia,2018,All other drug-induced causes,D9,12,702455,1.7082944814970353
+District of Columbia,2018,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,15,702455,2.1353681018712942
+District of Columbia,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,232,702455,33.02702664227602
+District of Columbia,2019,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,19,705749,2.6921752634435188
+District of Columbia,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,284,705749,40.2409355167347
+District of Columbia,2020,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,25,712816,3.5072164485645665
+District of Columbia,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,392,712816,54.9931539134924
+District of Columbia,2021,All other drug-induced causes,D9,13,670050,1.9401537198716512
+District of Columbia,2021,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,21,670050,3.1340944705618985
+District of Columbia,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,424,670050,63.278859786583084
+District of Columbia,2022,All other drug-induced causes,D9,14,671803,2.083944251514209
+District of Columbia,2022,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,14,671803,2.083944251514209
+District of Columbia,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,432,671803,64.30456547529558
+District of Columbia,2023,All other drug-induced causes,D9,13,678972,1.9146592201151154
+District of Columbia,2023,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,13,678972,1.9146592201151154
+District of Columbia,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,407,678972,59.94356173745014
+District of Columbia,2024,All other drug-induced causes,D9,10,702250,1.4239943040227838
+District of Columbia,2024,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,13,702250,1.851192595229619
+District of Columbia,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,299,702250,42.57742969028124
+Florida,2018,All other drug-induced causes,D9,116,11008276,1.0537526493703464
+Florida,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,286,14120497,2.0254244592098987
+Florida,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,4130,20688924,19.962372136897987
+Florida,2019,All other drug-induced causes,D9,155,11098894,1.396535546695013
+Florida,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,285,14416099,1.9769564568056865
+Florida,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,4704,20904707,22.502109213967934
+Florida,2020,All other drug-induced causes,D9,142,11628678,1.2211190300393562
+Florida,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,223,14367004,1.5521677310036246
+Florida,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,6730,21215976,31.72137826701916
+Florida,2021,All other drug-induced causes,D9,124,8965024,1.3831530177721778
+Florida,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,223,13577454,1.642428690975495
+Florida,2021,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,21,2094822,1.0024718090606266
+Florida,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,7322,21369796,34.263312574439176
+Florida,2022,All other drug-induced causes,D9,106,10753151,0.9857575700369128
+Florida,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,280,15370879,1.8216264665150248
+Florida,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,7008,21874842,32.03680282582155
+Florida,2023,All other drug-induced causes,D9,79,8272775,0.9549395456784453
+Florida,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,262,15581804,1.6814484381911106
+Florida,2023,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,22,643979,3.416260468120855
+Florida,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,6470,22182698,29.166875913831582
+Florida,2024,All other drug-induced causes,D9,111,8450769,1.3134899320996705
+Florida,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,217,15228259,1.4249823305474383
+Florida,2024,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,16,658447,2.4299601942145683
+Florida,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,4461,22792187,19.572496487502494
+Georgia,2018,All other drug-induced causes,D9,24,1806672,1.3284093626291877
+Georgia,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,40,2734760,1.462651201567962
+Georgia,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,927,7244992,12.795045184314905
+Georgia,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,34,2760328,1.2317376775513635
+Georgia,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,931,7719631,12.060161942973698
+Georgia,2020,All other drug-induced causes,D9,17,762009,2.2309447788674412
+Georgia,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,10,762944,1.3107121885747839
+Georgia,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,1421,8207754,17.312897048327713
+Georgia,2021,All other drug-induced causes,D9,28,1823052,1.5358859758251548
+Georgia,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,40,2589854,1.544488608238148
+Georgia,2021,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,1065334,1.032540029699606
+Georgia,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,1974,8890143,22.204367241336836
+Georgia,2022,All other drug-induced causes,D9,16,1074634,1.4888790043866098
+Georgia,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,36,2812807,1.2798602961383416
+Georgia,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,2149,8923925,24.081331925133842
+Georgia,2023,All other drug-induced causes,D9,12,1079105,1.1120326566923515
+Georgia,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,26,2062631,1.2605259981063022
+Georgia,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,2043,8860338,23.057811112849194
+Georgia,2024,All other drug-induced causes,D9,21,1292184,1.6251555506027007
+Georgia,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,24,2094223,1.1460097611381403
+Georgia,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,1536,8683907,17.68789094586112
+Hawaii,2018,All other drug-induced causes,D9,12,980080,1.2243898457268794
+Hawaii,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,194,1420403,13.658095624974038
+Hawaii,2019,All other drug-induced causes,D9,15,974563,1.5391513940094175
+Hawaii,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,13,974563,1.3339312081414954
+Hawaii,2019,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,974563,1.0261009293396117
+Hawaii,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,203,1415786,14.338325142359084
+Hawaii,2020,All other drug-induced causes,D9,16,963826,1.6600506730467948
+Hawaii,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,15,963826,1.5562975059813702
+Hawaii,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,249,1406919,17.69824702061739
+Hawaii,2021,All other drug-induced causes,D9,15,1000890,1.4986661870934868
+Hawaii,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,12,1000890,1.1989329496747894
+Hawaii,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,238,1441471,16.51091142312263
+Hawaii,2022,All other drug-induced causes,D9,23,995638,2.310076553928235
+Hawaii,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,17,995638,1.7074478876860868
+Hawaii,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,248,1440114,17.220858904225636
+Hawaii,2023,All other drug-induced causes,D9,16,989408,1.6171286264109448
+Hawaii,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,13,989408,1.3139170089588925
+Hawaii,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,291,1435057,20.277940179379634
+Hawaii,2024,All other drug-induced causes,D9,15,998747,1.501881857968034
+Hawaii,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,14,998747,1.401756400770165
+Hawaii,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,310,1446065,21.437487249881574
+Idaho,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,13,469966,2.766157551822898
+Idaho,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,143,1145043,12.488613964715736
+Idaho,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,10,481587,2.076468010972057
+Idaho,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,169,1170881,14.433576085016325
+Idaho,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,13,494399,2.6294551566649607
+Idaho,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,185,1201420,15.398445173211698
+Idaho,2021,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,14,88263,15.861686097232136
+Idaho,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,242,1334601,18.132760278165534
+Idaho,2022,All other drug-induced causes,D9,11,518907,2.1198403567498607
+Idaho,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,19,518907,3.6615424343861234
+Idaho,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,250,1309263,19.094712063198912
+Idaho,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,11,524673,2.0965439426080628
+Idaho,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,257,1377661,18.654806951782767
+Idaho,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,16,535799,2.9861944497843407
+Idaho,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,200,1258515,15.891745430129955
+Illinois,2018,All other drug-induced causes,D9,19,5180493,0.36676046082872804
+Illinois,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,74,6801392,1.088012571544178
+Illinois,2018,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,28,591635,4.732647662832658
+Illinois,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,2264,10906597,20.75807880313172
+Illinois,2019,All other drug-induced causes,D9,30,5150233,0.5824979180553579
+Illinois,2019,Drug poisonings (overdose) Homicide (X85),D3,10,141879,7.048259432333185
+Illinois,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,66,6073154,1.0867499819698299
+Illinois,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,2359,10763780,21.916092673763305
+Illinois,2020,All other drug-induced causes,D9,33,5108284,0.6460095014294429
+Illinois,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,82,7408084,1.1068988958548527
+Illinois,2020,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,5108284,0.21533650047648095
+Illinois,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,3149,11068419,28.450314358355968
+Illinois,2021,All other drug-induced causes,D9,41,5173146,0.7925544726555176
+Illinois,2021,Drug poisonings (overdose) Homicide (X85),D3,12,142909,8.396951906457955
+Illinois,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,69,6098031,1.1315127784689845
+Illinois,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,3299,11023108,29.928038444329857
+Illinois,2022,All other drug-induced causes,D9,42,5109292,0.8220317022397624
+Illinois,2022,Drug poisonings (overdose) Homicide (X85),D3,11,141527,7.7723685233206385
+Illinois,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,63,6030193,1.0447426807069027
+Illinois,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,3459,10848446,31.88475105098002
+Illinois,2023,All other drug-induced causes,D9,41,5087072,0.8059646098974027
+Illinois,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,61,5787800,1.0539410484121772
+Illinois,2023,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,15,5087072,0.29486510118197656
+Illinois,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,3144,11046619,28.461197041375282
+Illinois,2024,All other drug-induced causes,D9,33,5182617,0.6367439461569319
+Illinois,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,68,6609804,1.0287748320525087
+Illinois,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,2134,10936886,19.51195248812139
+Indiana,2018,All other drug-induced causes,D9,10,954670,1.047482376109022
+Indiana,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,14,954670,1.466475326552631
+Indiana,2018,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,45,1277904,3.5213912782180823
+Indiana,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,1234,4988245,24.738159412779446
+Indiana,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,15,964582,1.5550777435199912
+Indiana,2019,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,39,328478,11.872941262428533
+Indiana,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,1286,4793790,26.82637328710686
+Indiana,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,18,966183,1.8630011084856597
+Indiana,2020,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,69,333858,20.667469403159426
+Indiana,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,1892,5514334,34.31058038921835
+Indiana,2021,All other drug-induced causes,D9,10,272212,3.6736073354591277
+Indiana,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,15,971102,1.544636917646138
+Indiana,2021,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,44,1150457,3.824567106810598
+Indiana,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,2393,5779901,41.40209321924372
+Indiana,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,13,969466,1.3409443961933682
+Indiana,2022,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,44,255980,17.18884287834987
+Indiana,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,2278,5705074,39.92936813790671
+Indiana,2023,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,67,1413380,4.740409514780172
+Indiana,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,1792,5243460,34.1759067485973
+Indiana,2024,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,14,191650,7.304983042003652
+Indiana,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,1343,5235129,25.653618086583922
+Iowa,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,114,1018804,11.189590932112555
+Iowa,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,10,490161,2.040145992847248
+Iowa,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,147,889810,16.520380755442176
+Iowa,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,16,494281,3.2370250930138926
+Iowa,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,215,1473933,14.586823145963896
+Iowa,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,14,496844,2.8177858643759413
+Iowa,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,246,1482698,16.591375991604494
+Iowa,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,21,501089,4.190872280173782
+Iowa,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,252,1336953,18.848830138381828
+Iowa,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,13,505255,2.5729582092210865
+Iowa,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,243,1540671,15.772348541641922
+Iowa,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,10,516185,1.9372899251237443
+Iowa,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,229,1554415,14.732230453257333
+Kansas,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,13,597555,2.175531959401227
+Kansas,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,152,1351003,11.250900257068267
+Kansas,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,27,1118443,2.41407027447979
+Kansas,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,236,1726762,13.667199069703875
+Kansas,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,23,1127127,2.040586375803259
+Kansas,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,331,1801952,18.368968762763934
+Kansas,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,17,613219,2.7722559150972166
+Kansas,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,471,1867095,25.22635430976999
+Kansas,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,24,619195,3.8760002907000217
+Kansas,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,513,1820558,28.17817394447197
+Kansas,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,20,622237,3.214209376813015
+Kansas,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,439,1827933,24.016197530215823
+Kansas,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,11,632276,1.739746566372913
+Kansas,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,400,1783793,22.424126566255165
+Kentucky,2018,All other drug-induced causes,D9,26,1094297,2.375954608301037
+Kentucky,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,922,2694448,34.21851154670642
+Kentucky,2019,All other drug-induced causes,D9,31,1089909,2.8442741549982613
+Kentucky,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,23,766757,2.9996465633831844
+Kentucky,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,960,2725679,35.22058173394593
+Kentucky,2020,All other drug-induced causes,D9,25,324735,7.698585000076985
+Kentucky,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,12,767452,1.5636157049561406
+Kentucky,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,1675,3227801,51.892914092287604
+Kentucky,2021,All other drug-induced causes,D9,43,1099667,3.910274655873096
+Kentucky,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,1999,3409008,58.638759427962626
+Kentucky,2022,All other drug-induced causes,D9,10,773399,1.2929936552801335
+Kentucky,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,12,773399,1.5515923863361603
+Kentucky,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,1881,3437313,54.722976929944984
+Kentucky,2023,All other drug-induced causes,D9,12,320154,3.748196180588092
+Kentucky,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,11,772144,1.42460473694026
+Kentucky,2023,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,12,772144,1.5541142584802834
+Kentucky,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,1707,3435145,49.6922255101313
+Kentucky,2024,All other drug-induced causes,D9,10,329437,3.03548174613052
+Kentucky,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,11,793881,1.3855980934170236
+Kentucky,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,1074,3140706,34.1961329713765
+Louisiana,2018,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,47,249833,18.812566794618807
+Louisiana,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,885,3248141,27.24635414534037
+Louisiana,2019,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,68,344093,19.7620991999256
+Louisiana,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,967,3279480,29.486381987388246
+Louisiana,2020,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,71,296436,23.95120700589672
+Louisiana,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,1646,3903486,42.16743700374486
+Louisiana,2021,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,115,294915,38.994286489327436
+Louisiana,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,2186,3920271,55.76145118538999
+Louisiana,2022,All other drug-induced causes,D9,11,369749,2.974991142640007
+Louisiana,2022,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,91,291188,31.2512878277951
+Louisiana,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,2049,3883494,52.76176556472084
+Louisiana,2023,All other drug-induced causes,D9,15,364136,4.119340026803172
+Louisiana,2023,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,87,291803,29.814635216224648
+Louisiana,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,1949,4008209,48.62520891500419
+Louisiana,2024,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,31,206861,14.985908411928783
+Louisiana,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,1251,3881141,32.23278927511265
+Maine,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,267,1036863,25.750750099096987
+Maine,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,284,1034289,27.458476305945435
+Maine,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,11,209066,5.261496369567505
+Maine,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,418,1227192,34.06149974902053
+Maine,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,569,1305489,43.58520064129227
+Maine,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,656,1330530,49.30366094714136
+Maine,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,536,1290874,41.522255464127404
+Maine,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,424,1319096,32.14322536039833
+Maryland,2018,All other drug-induced causes,D9,26,602495,4.315388509448211
+Maryland,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,36,2457029,1.4651841716153942
+Maryland,2018,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,1591,5866227,27.121350742138006
+Maryland,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,569,5315816,10.703906982483968
+Maryland,2019,All other drug-induced causes,D9,24,593490,4.043876055198908
+Maryland,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,41,2457292,1.6685033768880542
+Maryland,2019,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,1665,5971628,27.881843946072998
+Maryland,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,552,5060705,10.907571178323968
+Maryland,2020,All other drug-induced causes,D9,17,586131,2.900375513323813
+Maryland,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,26,1877833,1.3845746666503358
+Maryland,2020,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,1682,5919619,28.413990832855966
+Maryland,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,951,5734513,16.58379708965696
+Maryland,2021,All other drug-induced causes,D9,29,1425814,2.0339258837407965
+Maryland,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,10,576498,1.734611395009176
+Maryland,2021,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,1612,6092573,26.458443747822145
+Maryland,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,1022,5935940,17.217155159924122
+Maryland,2022,All other drug-induced causes,D9,25,1516902,1.6480959218196034
+Maryland,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,28,1645807,1.7012930434735056
+Maryland,2022,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,1132,5882547,19.243365161383323
+Maryland,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,1300,5939819,21.88618878790751
+Maryland,2023,All other drug-induced causes,D9,35,1409942,2.4823716152863025
+Maryland,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,40,2468416,1.6204724001140811
+Maryland,2023,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,839,5465914,15.349674363702027
+Maryland,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,1551,6042196,25.669475137847233
+Maryland,2024,All other drug-induced causes,D9,37,1420696,2.604357300928559
+Maryland,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,21,1684623,1.2465697072876247
+Maryland,2024,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,525,5637256,9.31304166424232
+Maryland,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,1101,5935798,18.548474863868346
+Massachusetts,2018,All other drug-induced causes,D9,128,5783259,2.213284931558486
+Massachusetts,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,39,2320102,1.6809605784573265
+Massachusetts,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,2117,6873470,30.799581579609715
+Massachusetts,2019,All other drug-induced causes,D9,65,3811445,1.7053899505305732
+Massachusetts,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,35,2176916,1.60777907829241
+Massachusetts,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,2081,6863772,30.318606154167128
+Massachusetts,2020,All other drug-induced causes,D9,121,5204831,2.3247632824197364
+Massachusetts,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,30,2438591,1.2302185975425974
+Massachusetts,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,2167,6864737,31.56712340181423
+Massachusetts,2021,All other drug-induced causes,D9,75,3710734,2.0211634679284476
+Massachusetts,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,53,4055090,1.3069993514323974
+Massachusetts,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,2450,6949135,35.256186561349
+Massachusetts,2022,All other drug-induced causes,D9,118,5094287,2.316320223026304
+Massachusetts,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,90,5357922,1.6797556963315257
+Massachusetts,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,2473,6946685,35.599714108240114
+Massachusetts,2023,All other drug-induced causes,D9,100,4301375,2.3248379878527214
+Massachusetts,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,56,3743355,1.4959842173665068
+Massachusetts,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,2246,6966136,32.241690371821626
+Massachusetts,2024,All other drug-induced causes,D9,95,5220030,1.819912912377898
+Massachusetts,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,54,3916232,1.378876430201275
+Massachusetts,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,1459,7100440,20.5480223760781
+Michigan,2018,All other drug-induced causes,D9,211,4046676,5.214156013478717
+Michigan,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,73,4948531,1.4751852620504953
+Michigan,2018,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,184,2516711,7.311129486063358
+Michigan,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,1972,7571892,26.043688948548134
+Michigan,2019,All other drug-induced causes,D9,151,4039409,3.7381706086212114
+Michigan,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,72,4537854,1.586653074338663
+Michigan,2019,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,207,4635761,4.46528628201497
+Michigan,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,1754,7790132,22.515664689635553
+Michigan,2020,All other drug-induced causes,D9,145,3151002,4.601710820875391
+Michigan,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,66,3864873,1.7076887131866947
+Michigan,2020,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,235,4370954,5.376400666765196
+Michigan,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,2112,8364816,25.248612760878423
+Michigan,2021,All other drug-induced causes,D9,19,1774816,1.0705335088257038
+Michigan,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,53,3921625,1.351480572466771
+Michigan,2021,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,295,4081675,7.227425015465465
+Michigan,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,2370,8523298,27.80613795270329
+Michigan,2022,All other drug-induced causes,D9,17,1757043,0.9675346590834715
+Michigan,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,41,3290321,1.2460790299791418
+Michigan,2022,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,284,4427111,6.4150187334358675
+Michigan,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,2304,8505561,27.08816032240554
+Michigan,2023,All other drug-induced causes,D9,21,1751169,1.1991989351113455
+Michigan,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,61,4558050,1.3382915939930453
+Michigan,2023,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,328,4145097,7.91296319482994
+Michigan,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,2116,8104462,26.109074235896223
+Michigan,2024,All other drug-induced causes,D9,15,1771063,0.8469489792288585
+Michigan,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,67,4627128,1.4479824201967182
+Michigan,2024,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,189,4114359,4.593668175285628
+Michigan,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,1353,7638597,17.71267681748363
+Minnesota,2018,All other drug-induced causes,D9,20,1259428,1.5880224991027674
+Minnesota,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,10,1259428,0.7940112495513837
+Minnesota,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,374,3510743,10.653015615213077
+Minnesota,2019,All other drug-induced causes,D9,25,1464913,1.7065859883829277
+Minnesota,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,49,2245185,2.1824482169620767
+Minnesota,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,461,3531997,13.052106216398258
+Minnesota,2020,All other drug-induced causes,D9,35,1268408,2.7593644947051734
+Minnesota,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,39,1700215,2.293827545339854
+Minnesota,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,785,3911673,20.06813964255192
+Minnesota,2021,All other drug-induced causes,D9,42,1313796,3.1968433455422303
+Minnesota,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,17,1267416,1.3413117713521054
+Minnesota,2021,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,12,1267416,0.9468083091897215
+Minnesota,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,1069,4153804,25.735446352307427
+Minnesota,2022,All other drug-induced causes,D9,57,1996066,2.8556169986363176
+Minnesota,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,18,1260121,1.42843425353597
+Minnesota,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,1111,4225722,26.291365120564013
+Minnesota,2023,All other drug-induced causes,D9,70,2367743,2.9564019405822335
+Minnesota,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,19,1258713,1.5094783322330032
+Minnesota,2023,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,17,1258713,1.3505858762084764
+Minnesota,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,1031,4079131,25.274991168462105
+Minnesota,2024,All other drug-induced causes,D9,13,1273334,1.020941873852422
+Minnesota,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,34,2268505,1.498784441735857
+Minnesota,2024,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,15,1273334,1.1780098544451023
+Minnesota,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,723,3835566,18.849890733206
+Mississippi,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,152,1150558,13.21098110655873
+Mississippi,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,188,1101817,17.062724572229328
+Mississippi,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,339,1182154,28.676466856264074
+Mississippi,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,552,1637631,33.70722708595526
+Mississippi,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,470,1471673,31.936442402626124
+Mississippi,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,456,1587723,28.720375027633914
+Mississippi,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,289,1274037,22.683799607075773
+Missouri,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,35,1697252,2.06215694546243
+Missouri,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,1239,4376185,28.312331402808613
+Missouri,2019,All other drug-induced causes,D9,12,703011,1.7069434190930157
+Missouri,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,29,1697216,1.7086805686488933
+Missouri,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,1189,4213120,28.22136563876652
+Missouri,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,26,1699945,1.529461247275647
+Missouri,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,1525,4542450,33.57219121839535
+Missouri,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,24,1714049,1.400193343364163
+Missouri,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,1790,4682558,38.226969105347976
+Missouri,2022,All other drug-induced causes,D9,15,716531,2.09341954500224
+Missouri,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,37,1706945,2.167615242436048
+Missouri,2022,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,22,1706945,1.288852306313326
+Missouri,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,1750,4540257,38.54407360640598
+Missouri,2023,All other drug-induced causes,D9,10,987059,1.0131106651172828
+Missouri,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,34,2122278,1.6020521345459926
+Missouri,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,1599,4652719,34.367001316864396
+Missouri,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,26,1720291,1.5113722038887607
+Missouri,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,1078,4399642,24.50199357129512
+Montana,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,34,278928,12.189525612344404
+Montana,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,48,357100,13.441612993559229
+Montana,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,74,471817,15.684046992795937
+Montana,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,116,462577,25.07690611509003
+Montana,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,136,755181,18.008927661050794
+Montana,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,94,566118,16.60431217520022
+Montana,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,88,653566,13.464592711371154
+Nebraska,2018,All other drug-induced causes,D9,13,566880,2.293254304261925
+Nebraska,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,80,1068611,7.4863537807490275
+Nebraska,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,13,571327,2.275404453141546
+Nebraska,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,83,1077613,7.702208492288047
+Nebraska,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,10,574332,1.7411532005878132
+Nebraska,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,122,894982,13.631559070461751
+Nebraska,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,134,1102940,12.149346292636045
+Nebraska,2022,All other drug-induced causes,D9,12,586327,2.046639503212371
+Nebraska,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,154,1107636,13.903484538241806
+Nebraska,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,99,1116142,8.869839142331351
+Nebraska,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,74,934015,7.922784965980203
+Nevada,2018,All other drug-induced causes,D9,17,2231647,0.7617692224621546
+Nevada,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,77,2697382,2.854619775767763
+Nevada,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,542,2798536,19.367269172167163
+Nevada,2019,All other drug-induced causes,D9,31,2266715,1.3676178963830918
+Nevada,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,71,2738234,2.5929120739863722
+Nevada,2019,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,12,471519,2.544966374631775
+Nevada,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,502,2795744,17.955864342371836
+Nevada,2020,All other drug-induced causes,D9,32,2793045,1.1457029872415232
+Nevada,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,49,2793045,1.7543576992135823
+Nevada,2020,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,477082,2.3056832997262524
+Nevada,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,725,2948506,24.58872391645125
+Nevada,2021,All other drug-induced causes,D9,59,2785868,2.117831857072912
+Nevada,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,74,2785868,2.6562636851422967
+Nevada,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,831,3013129,27.579303773585533
+Nevada,2022,All other drug-induced causes,D9,37,2819730,1.3121823720710848
+Nevada,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,68,2819730,2.4115784135360476
+Nevada,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,880,3048229,28.869222095846474
+Nevada,2023,All other drug-induced causes,D9,26,2336573,1.112740753231335
+Nevada,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,58,2834595,2.0461476860009986
+Nevada,2023,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,498022,2.208737766604688
+Nevada,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,1170,3114772,37.562942006670156
+Nevada,2024,All other drug-induced causes,D9,10,2398871,0.4168627658594397
+Nevada,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,65,2906151,2.236635329685209
+Nevada,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,1127,3138370,35.9103611110226
+New Hampshire,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,10,415247,2.408205236883108
+New Hampshire,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,400,1281725,31.20794242134623
+New Hampshire,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,365,1285002,28.404625051167237
+New Hampshire,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,11,418735,2.6269597716933144
+New Hampshire,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,347,1323008,26.2281104876161
+New Hampshire,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,10,424079,2.3580512121562256
+New Hampshire,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,414,1388992,29.805787218356908
+New Hampshire,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,459,1395231,32.89777821737046
+New Hampshire,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,420,1402054,29.956050194928295
+New Hampshire,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,238,1325358,17.957412261441814
+New Jersey,2018,All other drug-induced causes,D9,24,1475828,1.6262057638152956
+New Jersey,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,25,1443770,1.731577744377567
+New Jersey,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,2766,8908520,31.048928441536866
+New Jersey,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,10,932202,1.0727288720685002
+New Jersey,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,2685,8882190,30.22903135375397
+New Jersey,2020,All other drug-induced causes,D9,13,671666,1.9354857920454511
+New Jersey,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,2732,8882371,30.757553360470983
+New Jersey,2021,All other drug-induced causes,D9,44,2206378,1.9942185790467453
+New Jersey,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,12,953819,1.2581003314045955
+New Jersey,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,2922,9267130,31.530797560841386
+New Jersey,2022,All other drug-induced causes,D9,24,1374384,1.7462368595676316
+New Jersey,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,27,1121838,2.406764613072476
+New Jersey,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,2853,9261699,30.80428331778003
+New Jersey,2023,All other drug-induced causes,D9,15,851117,1.762389894691329
+New Jersey,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,10,659197,1.5169971950721863
+New Jersey,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,2592,9290841,27.898443208747196
+New Jersey,2024,All other drug-induced causes,D9,16,881527,1.8150323245913058
+New Jersey,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,1871,9500851,19.6929727663343
+New Mexico,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,23,678701,3.3888265966898534
+New Mexico,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,384,1729288,22.2056707731737
+New Mexico,2019,All other drug-induced causes,D9,11,679121,1.619740812020244
+New Mexico,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,11,679121,1.619740812020244
+New Mexico,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,483,1766991,27.334604420735587
+New Mexico,2020,All other drug-induced causes,D9,22,681666,3.227387019449408
+New Mexico,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,15,681666,2.2004911496245962
+New Mexico,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,680,1902006,35.751727386769545
+New Mexico,2021,All other drug-induced causes,D9,14,674393,2.075940883134908
+New Mexico,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,23,674393,3.410474308007349
+New Mexico,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,934,1905398,49.018630228435214
+New Mexico,2022,All other drug-induced causes,D9,10,672508,1.4869711587074057
+New Mexico,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,15,672508,2.2304567380611084
+New Mexico,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,916,1984520,46.15725717049966
+New Mexico,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,12,671586,1.7868150914402623
+New Mexico,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,913,1976092,46.20230232195667
+New Mexico,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,15,671747,2.232983548865868
+New Mexico,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,667,1884756,35.38919626731524
+New York,2018,All other drug-induced causes,D9,132,10323381,1.2786508606046798
+New York,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,122,12033467,1.0138391537534446
+New York,2018,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,81,852072,9.506238909387939
+New York,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,3178,17854495,17.799439300859532
+New York,2019,All other drug-induced causes,D9,107,8002119,1.3371458235000004
+New York,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,123,10040068,1.2250913041624818
+New York,2019,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,82,849382,9.654077906054049
+New York,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,3110,17624076,17.646315188382076
+New York,2020,All other drug-induced causes,D9,113,10169400,1.1111766672566719
+New York,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,97,9734060,0.9965009461622385
+New York,2020,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,151,971780,15.538496367490586
+New York,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,4427,18057153,24.51660015285909
+New York,2021,All other drug-induced causes,D9,83,7327309,1.1327487349039054
+New York,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,144,13806578,1.0429811065421135
+New York,2021,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,122,869423,14.032294981844279
+New York,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,5316,18932780,28.078285386509535
+New York,2022,All other drug-induced causes,D9,129,10796445,1.19483774520224
+New York,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,145,13446729,1.0783291609431558
+New York,2022,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,122,775542,15.730933979075278
+New York,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,5819,18915389,30.763311291139715
+New York,2023,All other drug-induced causes,D9,107,8301128,1.2889814492680995
+New York,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,104,8682524,1.1978083792224472
+New York,2023,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,87,715272,12.163205046471832
+New York,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,5839,19044082,30.66044349105407
+New York,2024,All other drug-induced causes,D9,75,5982983,1.2535552917332375
+New York,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,115,11480532,1.001695740232247
+New York,2024,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,49,482225,10.161231790139459
+New York,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,3989,18523204,21.535151262168252
+North Carolina,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,43,2445309,1.758468970588175
+North Carolina,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,1848,9037093,20.449053694589622
+North Carolina,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,40,2483308,1.6107546868934501
+North Carolina,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,1892,9339283,20.258514491958323
+North Carolina,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,10,1128945,0.8857827440663628
+North Carolina,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,2821,9995122,28.223767553812753
+North Carolina,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,15,1150204,1.3041164871622772
+North Carolina,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,3669,9983551,36.750450816548145
+North Carolina,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,36,2866514,1.2558808364445455
+North Carolina,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,3973,10234083,38.82126029269061
+North Carolina,2023,All other drug-induced causes,D9,30,1676844,1.7890751912521379
+North Carolina,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,34,2353976,1.4443647683748686
+North Carolina,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,3180,10228036,31.091012976489328
+North Carolina,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,30,2438729,1.2301489833433727
+North Carolina,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,2476,10260119,24.132273709495962
+North Dakota,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,181516,9.365565569977303
+North Dakota,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,24,249564,9.616771649757176
+North Dakota,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,44,348582,12.622568004085123
+North Dakota,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,67,427271,15.680914454760563
+North Dakota,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,67,433297,15.46283496077748
+North Dakota,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,57,310626,18.350041529041356
+North Dakota,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,34,304052,11.182297764856012
+Ohio,2018,All other drug-induced causes,D9,65,2048097,3.1736778092053255
+Ohio,2018,Drug poisonings (overdose) Homicide (X85),D3,10,97493,10.25714666694019
+Ohio,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,43,3086488,1.3931691942427769
+Ohio,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,3623,10742973,33.72437033956987
+Ohio,2019,All other drug-induced causes,D9,59,2240903,2.6328671968398454
+Ohio,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,56,3797649,1.4745965201102051
+Ohio,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,3903,10742193,36.33336321549985
+Ohio,2020,All other drug-induced causes,D9,50,2142609,2.333603564626117
+Ohio,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,45,3084117,1.459088614342452
+Ohio,2020,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,14,1324624,1.0569036949353177
+Ohio,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,4936,11190465,44.10898027919305
+Ohio,2021,All other drug-induced causes,D9,62,4363764,1.4207917751739094
+Ohio,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,44,3106641,1.4163207142376606
+Ohio,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,5084,11149532,45.59832645890428
+Ohio,2022,All other drug-induced causes,D9,43,3916790,1.0978377702148954
+Ohio,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,64,3918780,1.6331613410296062
+Ohio,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,4822,10991631,43.86974053259248
+Ohio,2023,All other drug-induced causes,D9,32,2688854,1.1900980863966582
+Ohio,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,86,4145601,2.074488114027375
+Ohio,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,4387,11017981,39.81673230331401
+Ohio,2024,All other drug-induced causes,D9,26,2077953,1.2512313801130248
+Ohio,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,70,3397279,2.0604725134438473
+Ohio,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,2783,10349750,26.88953839464721
+Oklahoma,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,10,648360,1.5423530137577888
+Oklahoma,2018,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,12,792582,1.514038925940786
+Oklahoma,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,427,2614794,16.330158322223472
+Oklahoma,2019,All other drug-induced causes,D9,13,797434,1.6302289593872343
+Oklahoma,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,29,1448986,2.001399599444025
+Oklahoma,2019,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,13,797434,1.6302289593872343
+Oklahoma,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,342,2313480,14.782924425540743
+Oklahoma,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,25,1461630,1.7104191895349712
+Oklahoma,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,489,2582638,18.93412859254762
+Oklahoma,2021,All other drug-induced causes,D9,23,798575,2.8801302319757065
+Oklahoma,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,15,672858,2.2292965231891424
+Oklahoma,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,698,2830058,24.663805476778215
+Oklahoma,2022,All other drug-induced causes,D9,14,802559,1.744420036408538
+Oklahoma,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,12,677358,1.771589026777568
+Oklahoma,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,1001,3311582,30.22724486363315
+Oklahoma,2023,All other drug-induced causes,D9,16,808866,1.9780779511068582
+Oklahoma,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,30,1491734,2.0110824047718965
+Oklahoma,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,1025,3185714,32.17489077801711
+Oklahoma,2024,All other drug-induced causes,D9,21,816490,2.5719849600117577
+Oklahoma,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,20,1510004,1.3244998026495294
+Oklahoma,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,797,3123543,25.515896531598894
+Oregon,2018,All other drug-induced causes,D9,71,1868206,3.800437424994888
+Oregon,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,40,1629139,2.45528466263468
+Oregon,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,358,3096704,11.560678708717397
+Oregon,2019,All other drug-induced causes,D9,92,1980920,4.644306685782364
+Oregon,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,40,1415866,2.825126106566582
+Oregon,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,435,3427571,12.691203187330036
+Oregon,2020,All other drug-induced causes,D9,134,3065289,4.371529079313565
+Oregon,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,35,1419151,2.466263279946954
+Oregon,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,612,3668920,16.680658068314383
+Oregon,2021,All other drug-induced causes,D9,149,2333301,6.385802774695592
+Oregon,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,45,1787377,2.517655760368406
+Oregon,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,1013,3927785,25.790617358129328
+Oregon,2022,All other drug-induced causes,D9,149,2568891,5.8001682438063735
+Oregon,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,60,1777612,3.3753147481002603
+Oregon,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,1173,3989723,29.400537330536483
+Oregon,2023,All other drug-induced causes,D9,104,1826209,5.694857488929252
+Oregon,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,46,1594052,2.885727692697603
+Oregon,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,1614,4059424,39.7593353145668
+Oregon,2024,All other drug-induced causes,D9,99,2389883,4.142462204216692
+Oregon,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,54,2142432,2.520500067213335
+Oregon,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,1306,3897168,33.51151400196245
+Pennsylvania,2018,All other drug-induced causes,D9,50,2529979,1.976300989059593
+Pennsylvania,2018,Drug poisonings (overdose) Homicide (X85),D3,10,113664,8.79786036036036
+Pennsylvania,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,107,5577220,1.9185185450816
+Pennsylvania,2018,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,66,2163617,3.0504474682903675
+Pennsylvania,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,3991,12306782,32.42927355014495
+Pennsylvania,2019,All other drug-induced causes,D9,23,2212334,1.0396260239186306
+Pennsylvania,2019,Drug poisonings (overdose) Homicide (X85),D3,11,113299,9.708823555371186
+Pennsylvania,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,105,5580384,1.8815909442791032
+Pennsylvania,2019,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,54,708106,7.625976901763296
+Pennsylvania,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,3954,11910849,33.196626033962815
+Pennsylvania,2020,All other drug-induced causes,D9,58,2523456,2.2984351619366454
+Pennsylvania,2020,Drug poisonings (overdose) Homicide (X85),D3,36,140709,25.584717395475767
+Pennsylvania,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,64,4496359,1.4233738898517667
+Pennsylvania,2020,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,26,1400622,1.856318121520296
+Pennsylvania,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,4759,12205269,38.991356929535925
+Pennsylvania,2021,All other drug-induced causes,D9,45,2548402,1.765812458160055
+Pennsylvania,2021,Drug poisonings (overdose) Homicide (X85),D3,46,143264,32.10855483582756
+Pennsylvania,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,109,5631990,1.9353727545681012
+Pennsylvania,2021,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,860578,1.2782106909542192
+Pennsylvania,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,5042,12608515,39.988848805747544
+Pennsylvania,2022,All other drug-induced causes,D9,30,2212312,1.3560474291148807
+Pennsylvania,2022,Drug poisonings (overdose) Homicide (X85),D3,44,143104,30.746869409660107
+Pennsylvania,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,74,4866877,1.5204822312131578
+Pennsylvania,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,4760,12280851,38.75952896098161
+Pennsylvania,2023,All other drug-induced causes,D9,35,2196526,1.5934252542423808
+Pennsylvania,2023,Drug poisonings (overdose) Homicide (X85),D3,49,143786,34.07842209950899
+Pennsylvania,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,99,5419250,1.8268210545739723
+Pennsylvania,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,4358,12263547,35.53621150552935
+Pennsylvania,2024,All other drug-induced causes,D9,26,2805730,0.9266750542639527
+Pennsylvania,2024,Drug poisonings (overdose) Homicide (X85),D3,24,144523,16.606353314005386
+Pennsylvania,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,61,4833095,1.262131201642012
+Pennsylvania,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,2973,11745613,25.311578033432568
+Rhode Island,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,289,1008666,28.651704330273848
+Rhode Island,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,13,638931,2.0346484988206863
+Rhode Island,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,280,1059361,26.431027761074837
+Rhode Island,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,368,1008775,36.47988897425095
+Rhode Island,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,429,1095610,39.156269110358615
+Rhode Island,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,16,657288,2.4342449580701304
+Rhode Island,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,397,1093734,36.29767384025732
+Rhode Island,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,13,660615,1.9678632789143449
+Rhode Island,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,389,1095962,35.49393135893398
+Rhode Island,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,304,1112308,27.330559521283675
+South Carolina,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,12,514213,2.3336632873925787
+South Carolina,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,986,4464889,22.083415735531162
+South Carolina,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,11,523542,2.1010730753215596
+South Carolina,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,948,4392925,21.580154452898697
+South Carolina,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,10,417981,2.39245324548245
+South Carolina,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,1565,4723280,33.13375450957809
+South Carolina,2021,All other drug-induced causes,D9,17,206908,8.216212036267327
+South Carolina,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,1994,4942782,40.34165374884023
+South Carolina,2022,All other drug-induced causes,D9,33,209581,15.74570213902978
+South Carolina,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,2122,5083237,41.74505339806112
+South Carolina,2023,All other drug-induced causes,D9,22,213076,10.324954476337082
+South Carolina,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,26,849505,3.0606058822490745
+South Carolina,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,2026,5171480,39.17640598049301
+South Carolina,2024,All other drug-induced causes,D9,14,217183,6.4461767265393695
+South Carolina,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,10,431001,2.3201802316003906
+South Carolina,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,1325,5154265,25.706866061407396
+South Dakota,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,192876,9.332420829963294
+South Dakota,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,36,306909,11.729861294390194
+South Dakota,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,36,312585,11.516867412063919
+South Dakota,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,31,199685,15.524451010341288
+South Dakota,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,43,318432,13.503667973068032
+South Dakota,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,34,322833,10.531761003367066
+South Dakota,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,38,324618,11.706066823158297
+Tennessee,2018,All other drug-induced causes,D9,16,465289,3.438723030202734
+Tennessee,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,10,465289,2.149201893876709
+Tennessee,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,1434,5349195,26.807772010554856
+Tennessee,2019,All other drug-induced causes,D9,27,1164457,2.318677289071215
+Tennessee,2019,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,23,1631310,1.4099098270714947
+Tennessee,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,1726,5663442,30.476166260729784
+Tennessee,2020,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,18,936017,1.9230419960321232
+Tennessee,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,2684,6095700,44.031038272880885
+Tennessee,2021,All other drug-induced causes,D9,43,1559765,2.7568255474382357
+Tennessee,2021,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,12,924454,1.2980635055935719
+Tennessee,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,3491,6267385,55.70106192614624
+Tennessee,2022,All other drug-induced causes,D9,29,1202718,2.4112052866923084
+Tennessee,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,25,1202718,2.078625247148542
+Tennessee,2022,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,18,916371,1.964269929973777
+Tennessee,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,3503,6437260,54.41756275185406
+Tennessee,2023,All other drug-induced causes,D9,23,1213003,1.8961206196522185
+Tennessee,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,23,1622376,1.4176738314669348
+Tennessee,2023,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,14,910042,1.5383905358214236
+Tennessee,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,3279,6383754,51.364761236100264
+Tennessee,2024,All other drug-induced causes,D9,12,910530,1.3179137425455503
+Tennessee,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,11,729505,1.5078717760673335
+Tennessee,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,2130,6139901,34.6911130977519
+Texas,2018,All other drug-induced causes,D9,45,7698656,0.5845176093073908
+Texas,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,166,15677968,1.0588106826088686
+Texas,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,2246,23791561,9.440322137752963
+Texas,2019,All other drug-induced causes,D9,76,11454910,0.6634709482658528
+Texas,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,168,16097430,1.043644855110412
+Texas,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,2347,23865510,9.834275487932166
+Texas,2020,All other drug-induced causes,D9,78,11524311,0.6768300508377464
+Texas,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,157,15364520,1.0218347205119327
+Texas,2020,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,24,2999036,0.8002571492973075
+Texas,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,3373,25185716,13.392511850764935
+Texas,2021,All other drug-induced causes,D9,120,12702228,0.944716155307557
+Texas,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,171,14526435,1.1771642526194486
+Texas,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,4217,25596158,16.475128806440406
+Texas,2022,All other drug-induced causes,D9,129,12484245,1.0333023743125835
+Texas,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,197,17276962,1.1402467632909072
+Texas,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,4606,26404606,17.443926260441078
+Texas,2023,All other drug-induced causes,D9,93,11876603,0.7830521909337208
+Texas,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,171,16520854,1.0350554517339117
+Texas,2023,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,12,4835125,0.24818386287841576
+Texas,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,4875,27141480,17.961437622414106
+Texas,2024,All other drug-induced causes,D9,75,9793067,0.7658479207790573
+Texas,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,201,18122847,1.1090972626982945
+Texas,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,4184,27658143,15.127552128138175
+Utah,2018,All other drug-induced causes,D9,23,1152633,1.9954313298335205
+Utah,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,55,2382918,2.3080945294802424
+Utah,2018,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,15,1152633,1.3013682585870785
+Utah,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,432,2751593,15.699996329399006
+Utah,2019,All other drug-induced causes,D9,16,1160437,1.3787909210064828
+Utah,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,44,1796672,2.4489723221600825
+Utah,2019,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,12,1160437,1.0340931907548623
+Utah,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,395,2662181,14.837458459811712
+Utah,2020,All other drug-induced causes,D9,12,1165517,1.0295860120444404
+Utah,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,62,2175808,2.8495161337765094
+Utah,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,447,2827895,15.806810366014297
+Utah,2021,All other drug-induced causes,D9,22,1186421,1.8543164694488719
+Utah,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,41,1377647,2.976088940055036
+Utah,2021,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,16,1186421,1.348593795962816
+Utah,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,481,2947245,16.32032627080545
+Utah,2022,All other drug-induced causes,D9,25,1186257,2.107469123469872
+Utah,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,76,2528200,3.0060912902460246
+Utah,2022,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,18,1186257,1.5173777688983079
+Utah,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,431,2849807,15.12383119277902
+Utah,2023,All other drug-induced causes,D9,11,1185813,0.9276336150809613
+Utah,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,56,2176913,2.5724500703519158
+Utah,2023,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,14,1185813,1.1806246010121326
+Utah,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,522,2935054,17.785022013223607
+Utah,2024,All other drug-induced causes,D9,10,1216274,0.822183159386783
+Utah,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,50,1963508,2.5464627595100198
+Utah,2024,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,23,1216274,1.8910212665896005
+Utah,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,490,3160257,15.505068100474107
+Vermont,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,115,464478,24.758976743785496
+Vermont,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,88,407651,21.5870928809202
+Vermont,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,133,407106,32.66962412737714
+Vermont,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,204,567418,35.952331438198996
+Vermont,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,224,569913,39.30424468296038
+Vermont,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,204,488603,41.751687975718525
+Vermont,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,155,475818,32.57548054087908
+Virginia,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,12,1150795,1.0427573981464986
+Virginia,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,945,5737500,16.47058823529412
+Virginia,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,1066,6227116,17.118679016096696
+Virginia,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,23,1602078,1.4356354684353696
+Virginia,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,1749,7020859,24.911481629242232
+Virginia,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,10,1139720,0.8774084862948793
+Virginia,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,2130,7076822,30.098255968568942
+Virginia,2022,All other drug-induced causes,D9,20,367432,5.443184044938928
+Virginia,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,2022,7156211,28.255175818600094
+Virginia,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,12,1141878,1.0509003588824726
+Virginia,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,2011,7120184,28.2436521303382
+Virginia,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,22,1160925,1.895040592630876
+Virginia,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,1079,6411556,16.82898815825675
+Washington,2018,All other drug-induced causes,D9,92,4679679,1.9659468095995474
+Washington,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,80,3939363,2.030785180243608
+Washington,2018,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,269805,3.7063805340894347
+Washington,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,922,6491482,14.20322816885266
+Washington,2019,All other drug-induced causes,D9,100,4731890,2.1133204702560713
+Washington,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,97,4990884,1.9435434684516812
+Washington,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,1008,6871294,14.6697259642798
+Washington,2020,All other drug-induced causes,D9,104,5274704,1.9716746190876302
+Washington,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,92,5043688,1.824062075211631
+Washington,2020,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,13,2274315,0.5716006797651161
+Washington,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,1533,7265458,21.09983981739348
+Washington,2021,All other drug-induced causes,D9,122,5297828,2.302830518469078
+Washington,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,72,4235457,1.6999346233476105
+Washington,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,2053,7372843,27.84543221658185
+Washington,2022,All other drug-induced causes,D9,66,4260638,1.5490637787110755
+Washington,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,98,5100717,1.9212985154832154
+Washington,2022,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,13,2266789,0.573498459715483
+Washington,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,2479,7400688,33.49688569495161
+Washington,2023,All other drug-induced causes,D9,73,4008174,1.8212782179615956
+Washington,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,86,3751531,2.2923974238784113
+Washington,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,3214,7519215,42.743823657123784
+Washington,2024,All other drug-induced causes,D9,50,3837328,1.3029899972063894
+Washington,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,107,5228710,2.0463938524033654
+Washington,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,2922,7763463,37.6378428028832
+West Virginia,2018,All other drug-induced causes,D9,25,273678,9.134822674822237
+West Virginia,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,678,1283995,52.80394394059167
+West Virginia,2019,All other drug-induced causes,D9,22,270069,8.14606637562993
+West Virginia,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,698,1251558,55.77048766417537
+West Virginia,2020,All other drug-induced causes,D9,12,176253,6.808394750727647
+West Virginia,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,1156,1397231,82.7350667140938
+West Virginia,2021,All other drug-induced causes,D9,25,271370,9.212514279397132
+West Virginia,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,1366,1548540,88.21212238624769
+West Virginia,2022,All other drug-induced causes,D9,11,58700,18.739352640545146
+West Virginia,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,1171,1432193,81.76272332011119
+West Virginia,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,1249,1507578,82.84811797465869
+West Virginia,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,706,1335379,52.86888591178984
+Wisconsin,2018,Drug poisonings (overdose) Suicide (X60-X64),D2,27,1490565,1.8113936661601475
+Wisconsin,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,778,3852666,20.193808650944565
+Wisconsin,2019,Drug poisonings (overdose) Suicide (X60-X64),D2,14,945726,1.4803442011745473
+Wisconsin,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,960,4492364,21.369595161923655
+Wisconsin,2020,Drug poisonings (overdose) Suicide (X60-X64),D2,20,945016,2.1163662837454607
+Wisconsin,2020,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,945016,1.1640014560600032
+Wisconsin,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,1253,4413768,28.388442709267906
+Wisconsin,2021,Drug poisonings (overdose) Suicide (X60-X64),D2,21,928059,2.262787171936267
+Wisconsin,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,1452,4626103,31.387109193202143
+Wisconsin,2022,Drug poisonings (overdose) Suicide (X60-X64),D2,25,1486864,1.6813911696025998
+Wisconsin,2022,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,14,918661,1.5239571506790863
+Wisconsin,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,1476,4725818,31.232688182236387
+Wisconsin,2023,Drug poisonings (overdose) Suicide (X60-X64),D2,20,846764,2.3619331950815106
+Wisconsin,2023,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,916205,1.2006046681692417
+Wisconsin,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,1454,4727543,30.75593389631781
+Wisconsin,2024,Drug poisonings (overdose) Suicide (X60-X64),D2,29,1513087,1.916611536547469
+Wisconsin,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,876,3999939,21.900333980093198
+Wyoming,2018,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,79115,13.90381090817165
+Wyoming,2019,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,179358,12.823514981210764
+Wyoming,2020,Drug poisonings (overdose) Unintentional (X40-X44),D1,40,224083,17.85052859877813
+Wyoming,2021,Drug poisonings (overdose) Unintentional (X40-X44),D1,59,219754,26.848202990616784
+Wyoming,2022,Drug poisonings (overdose) Unintentional (X40-X44),D1,54,221669,24.36064582778828
+Wyoming,2023,Drug poisonings (overdose) Unintentional (X40-X44),D1,88,282734,31.12466134246323
+Wyoming,2024,Drug poisonings (overdose) Unintentional (X40-X44),D1,58,223466,25.954731368530336
